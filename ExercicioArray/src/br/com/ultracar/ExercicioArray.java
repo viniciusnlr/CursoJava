@@ -41,4 +41,24 @@ public class ExercicioArray {
 		System.out.println(mult);
 	}
 	*/
+	
+	/* 4
+	public static void main(String[] args) {
+		int [] array = new int[] {1,2,3,4,5,6,7,8,9};
+		int[] array2 = new int[9];
+		
+		int indice = 9;
+		
+		for(int i = 0;i< array.length;i++) {
+			array2[i] = array[--indice];
+		}
+		
+		for(int valor:array2) {
+			System.out.println(valor);
+		}
+
+	}
+	*/
+	
+	
 }
