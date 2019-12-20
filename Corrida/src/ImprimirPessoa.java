@@ -1,4 +1,3 @@
-
 public class ImprimirPessoa {
 
 	Pessoa pessoa;
@@ -18,7 +17,7 @@ public class ImprimirPessoa {
 
 	System.out.println("Dados pessoa 1: " + Pessoa1.getNome() + 
 			" CPF: " + Pessoa1.getCPF() +
-			" Idade: " + Pessoa1.getIdade() + "\n "
+			" Idade: " + Pessoa1.getIdade() + "\n"
 			 + "Dados pessoa 2: " + Pessoa2.getNome() + 
 				" CPF: " + Pessoa2.getCPF() +
 				" Idade: " + Pessoa2.getIdade());
