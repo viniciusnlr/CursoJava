@@ -8,5 +8,4 @@ public class Endereco {
 	private int CEP;
 	private int telefone;
 	
-	
 }
